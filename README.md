@@ -23,8 +23,11 @@ This project reflects my early learning experience with object-oriented design a
 ## 🔑 Controls
 
 Controls are configurable via the in-game menu, but the default ones are:
-
-
+- Move left: Left Arrow
+- Move right: Right Arrow
+- Move down: Down Arrow
+- Rotate piece: Spacebar
+- Drop piece: Enter
 
 ---
 
